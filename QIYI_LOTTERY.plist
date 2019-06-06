@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://218.161.36.226:4343/QIYI_LOTTERY.ipa</string>
+                        <string>https://github.com/sjh6537/PushTest/raw/master/QIYI_LOTTERY.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -24,7 +24,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>qiyiplay.com.lottery</string>
+                    <string>com.qiyiplay.lottery</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
