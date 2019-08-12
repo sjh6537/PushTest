@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://88play.vip/static/IPA/QIYI_Lottery_QY.ipa</string>
+                        <string>https://github.com/sjh6537/PushTest/raw/master/QIYI_Lottery_QY.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -18,7 +18,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>https://88play.vip/static/app_icon.png</string>
+                        <string>https://github.com/sjh6537/PushTest/blob/master/PushTest.png?raw=true</string>
                     </dict>
                 </array>
                 <key>metadata</key>
